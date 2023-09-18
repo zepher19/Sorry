@@ -1,8 +1,13 @@
-# Sorry
+# Sorry Board Game
 
 Hello there!
 
 I'm currently looking for a coding job, so I decided to create an app based on the board game "Sorry" to showcase my Java language competency. Please don't sue me, Hasbro! This app was created purely for educational purposes. 
+
+Here's some pictures
+
+![sorry splash](https://github.com/zepher19/Sorry/assets/108103331/b098f90b-13ee-4020-a638-26a360757031)
+
 
 Here's a quick demo video if you'd like to see the app in action:
 
