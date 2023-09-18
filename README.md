@@ -4,9 +4,11 @@ Hello there!
 
 I'm currently looking for a coding job, so I decided to create an app based on the board game "Sorry" to showcase my Java language competency. Please don't sue me, Hasbro! This app was created purely for educational purposes. 
 
-Here's some pictures
+Here's some pictures: (from left to right, icon on homescreen, splashscreen, game in progress)
 
-![sorry splash](https://github.com/zepher19/Sorry/assets/108103331/b098f90b-13ee-4020-a638-26a360757031)
+![home icon](https://github.com/zepher19/Sorry/assets/108103331/9e230dc4-c475-418a-91a7-97d78da30b59) ![sorry splash](https://github.com/zepher19/Sorry/assets/108103331/fd456b01-6fe9-43f6-ab65-dbdfd06a2b57) ![sorry in progress](https://github.com/zepher19/Sorry/assets/108103331/9be516ec-7a43-4577-bede-f621033cce3e)
+
+
 
 
 Here's a quick demo video if you'd like to see the app in action:
